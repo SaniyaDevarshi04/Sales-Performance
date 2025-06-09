@@ -33,5 +33,6 @@ Date,Region, Category,Sales,Profit,Quantity
 
 # **Dashboard Preview** 📷
 
-* [dashboard_screenshot](dashboard_screenshot.png)
+* ![Dashboard Screenshot](dashboard_screenshot)
+
 
