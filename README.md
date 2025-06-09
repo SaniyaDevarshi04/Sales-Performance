@@ -1,5 +1,5 @@
 # Sales-Performance
-A dynamic Power BI dashboard showcasing sales performance by region, category, and time, using KPIs, interactive charts, and slicers to drive actionable business insights.
+A Power BI dashboard showcasing sales performance by region, category, and time, using KPIs, interactive charts, and slicers to drive actionable business insights.
 
 # **Sales Performance Dashboard** 📊
 
@@ -31,5 +31,7 @@ Date,Region, Category,Sales,Profit,Quantity
 * **Domain** : Data Analytics.
 * **Purpose** : To explore, analyze, and visualize sales performance metrics for informed business decision-making.
 
+# **Dashboard Preview**
 
+[Dashboard Screenshot](dashboard_screenshot)
 
