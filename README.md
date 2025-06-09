@@ -31,7 +31,4 @@ Date,Region, Category,Sales,Profit,Quantity
 * **Domain** : Data Analytics.
 * **Purpose** : To explore, analyze, and visualize sales performance metrics for informed business decision-making.
 
-# **Dashboard Preview**
-
-[Dashboard Screenshot](dashboard_screenshot)
 
