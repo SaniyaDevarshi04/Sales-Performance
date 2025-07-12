@@ -31,4 +31,14 @@ Date,Region, Category,Sales,Profit,Quantity
 * **Domain** : Data Analytics.
 * **Purpose** : To explore, analyze, and visualize sales performance metrics for informed business decision-making.
 
+# **Dashboard Overview 🖼️**
 
+<img width="1500" height="804" alt="Dashboard_ Overview" src="https://github.com/user-attachments/assets/cf62451e-8e81-4f5d-bcae-5d2118b4c180" />
+
+# **👩‍💻 Developed By**
+
+Saniya Devarshi
+
+🎓 BCA (Data Science) | 2023–2026
+
+📍 Sri Balaji University, Pune
